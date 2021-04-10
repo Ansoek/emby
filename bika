@@ -1,2 +1,2 @@
-DOMAIN-SUFFIX,ad-channel.wikawika.xyz,Bika
-DOMAIN-SUFFIX,ad-display.wikawika.xyz,Bika
+DOMAIN-SUFFIX,ad-channel.wikawika.xyz,REJECT
+DOMAIN-SUFFIX,ad-display.wikawika.xyz,REJECT
