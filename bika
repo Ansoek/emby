@@ -1,2 +1,6 @@
+# Advertising
+# > General
+DOMAIN-KEYWORD,adservice,REJECT
+
 DOMAIN-SUFFIX,ad-channel.wikawika.xyz,REJECT
 DOMAIN-SUFFIX,ad-display.wikawika.xyz,REJECT
