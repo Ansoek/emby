@@ -1,4 +1,4 @@
 # > 流媒体Terminus服务器
-DOMAIN,pub1.emby.wtf
-DOMAIN,pub2.emby.wtf
-DOMAIN,pub3.emby.wtf
+DOMAIN,pub1.emby.wtf,Emby
+DOMAIN,pub2.emby.wtf,Emby
+DOMAIN,pub3.emby.wtf,Emby
