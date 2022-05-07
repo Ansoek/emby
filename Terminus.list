@@ -1,11 +1,19 @@
-# > 流媒体Terminus服务器
+# > Terminus服务器
 DOMAIN,pub1.emby.wtf,Emby
 DOMAIN,pub2.emby.wtf,Emby
 DOMAIN,pub3.emby.wtf,Emby
+DOMAIN,pub1cm1.emby.wtf,Emby
+DOMAIN,pub2cm1.emby.wtf,Emby
+DOMAIN,pub3cm1.emby.wtf,Emby
 
-# > 流媒体Misty服务器
+# > Misty服务器
 DOMAIN,aaa.ax,Emby
 DOMAIN,us.aaa.ax,Emby
 DOMAIN,jp.aaa.ax,Emby
 
+# > 黑山服务器
+DOMAIN,hs.gcx920110.com,Emby
+DOMAIN,sg.gcx920110.com,Emby
 
+# > porn服务器
+DOMAIN,pornemby.club,Emby
