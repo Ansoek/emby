@@ -3,6 +3,9 @@ DOMAIN,pub1.emby.wtf,Emby
 DOMAIN,pub2.emby.wtf,Emby
 DOMAIN,pub3.emby.wtf,Emby
 
-DOMAIN,singularity.deja-vu.beauty,Emby
+# > 流媒体Misty服务器
+DOMAIN,aaa.ax,Emby
+DOMAIN,us.aaa.ax,Emby
+DOMAIN,jp.aaa.ax,Emby
 
 
