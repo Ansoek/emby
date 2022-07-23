@@ -27,4 +27,4 @@ DOMAIN,ha.mseic.com,Emby
 DOMAIN,cf.mseic.com,Emby
 
 # > BlueSea服务器
-DOMAIN,emby-pub1.blueseacdn.com
+DOMAIN,emby-pub1.blueseacdn.com,Emby
