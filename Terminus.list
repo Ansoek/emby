@@ -25,3 +25,6 @@ DOMAIN,emby.misakaf.xyz,Emby
 # > Midsummer服务器
 DOMAIN,ha.mseic.com,Emby
 DOMAIN,cf.mseic.com,Emby
+
+# > BlueSea服务器
+DOMAIN,emby-pub1.blueseacdn.com
