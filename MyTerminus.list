@@ -30,3 +30,6 @@ DOMAIN,emby-pub1.blueseacdn.com,Emby
 
 # > bamboomusic服务器
 DOMAIN,acg.fm,Emby
+
+# > jmsooo服务器
+DOMAIN,cf.jmsooo.com,Emby
