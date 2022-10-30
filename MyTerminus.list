@@ -30,7 +30,6 @@ DOMAIN,cf.mseic.com,Emby
 # > BlueSea服务器
 DOMAIN,emby-pub1.blueseacdn.com,Emby
 DOMAIN,bsem.ddns.me,Emby
-DOMAIN,blueseamusics.com,Emby
 
 # > bamboomusic服务器
 DOMAIN,acg.fm,Emby
