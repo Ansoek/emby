@@ -47,5 +47,9 @@ DOMAIN,cu.poloemby.xyz,Emby
 DOMAIN,cc.ccemby.tk,Emby
 
 # > mjj服务器
-DOMAIN,de.mjjemby.or,Emby
+DOMAIN,de.mjjemby.org,Emby
 DOMAIN,cf.mjjemby.org,Emby
+
+# > GFW服务器
+DOMAIN,us-s2.gfwemby.org,Emby
+
