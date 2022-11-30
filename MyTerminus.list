@@ -18,7 +18,7 @@ DOMAIN,hs.gcx920110.com,Emby
 DOMAIN,sg.gcx920110.com,Emby
 
 # > porn服务器
-DOMAIN,pornemby.club,Emby
+#DOMAIN,pornemby.club,Emby
 
 # > MisakaF服务器
 DOMAIN,emby.misakaf.org,Emby
