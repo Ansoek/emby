@@ -1,11 +1,11 @@
 # > Terminus服务器
-DOMAIN,pub1.emby.wtf,Emby
-DOMAIN,pub2.emby.wtf,Emby
-DOMAIN,pub3.emby.wtf,Emby
-DOMAIN,pub4.emby.wtf,Emby
-DOMAIN,pub1cm1.emby.wtf,Emby
-DOMAIN,pub2cm1.emby.wtf,Emby
-DOMAIN,pub3cm1.emby.wtf,Emby
+DOMAIN,pub1.emby.wtf,EmbyX
+DOMAIN,pub2.emby.wtf,EmbyX
+DOMAIN,pub3.emby.wtf,EmbyX
+DOMAIN,pub4.emby.wtf,EmbyX
+DOMAIN,pub1cm1.emby.wtf,EmbyX
+DOMAIN,pub2cm1.emby.wtf,EmbyX
+DOMAIN,pub3cm1.emby.wtf,EmbyX
 
 # > Misty服务器
 DOMAIN,aaa.ax,Emby
@@ -19,7 +19,7 @@ DOMAIN,hs.gcx920110.com,Emby
 DOMAIN,sg.gcx920110.com,Emby
 
 # > porn服务器
-#DOMAIN,pornemby.club,Emby
+DOMAIN,pornemby.club,EmbyX
 
 # > MisakaF服务器
 DOMAIN,emby.misakaf.org,Emby
