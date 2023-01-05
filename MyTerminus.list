@@ -66,4 +66,5 @@ DOMAIN,37.128.247.203,Emby
 # > nebula服务器
 DOMAIN,direct.nebula-emby.com,Emby
 
-
+# > StudyFun服务器
+DOMAIN,cf.studyfun.live,Emby
