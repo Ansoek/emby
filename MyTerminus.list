@@ -68,3 +68,6 @@ DOMAIN,direct.nebula-emby.com,Emby
 
 # > StudyFun服务器
 DOMAIN,cf.studyfun.live,Emby
+
+# > # > StudyFun服务器
+DOMAIN,nextfilm.nmg.llc,Emby
