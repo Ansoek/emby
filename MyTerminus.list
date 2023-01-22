@@ -71,3 +71,12 @@ DOMAIN,cf.studyfun.live,Emby
 
 # > # > StudyFun服务器
 DOMAIN,nextfilm.nmg.llc,Emby
+
+# > # > Peach服务器
+DOMAIN,embymv.tk,Emby
+#推荐
+DOMAIN,kr.embymv.tk,Emby
+#联通
+DOMAIN,jp.embymv.tk,Emby
+#9929
+DOMAIN,us.embymv.tk,Emby
