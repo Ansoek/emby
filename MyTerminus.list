@@ -69,10 +69,10 @@ DOMAIN,direct.nebula-emby.com,Emby
 # > StudyFun服务器
 DOMAIN,cf.studyfun.live,Emby
 
-# > # > StudyFun服务器
+# >  StudyFun服务器
 DOMAIN,nextfilm.nmg.llc,Emby
 
-# > # > Peach服务器
+# >  Peach服务器
 DOMAIN,embymv.tk,Emby
 #推荐
 DOMAIN,kr.embymv.tk,Emby
@@ -80,3 +80,6 @@ DOMAIN,kr.embymv.tk,Emby
 DOMAIN,jp.embymv.tk,Emby
 #9929
 DOMAIN,us.embymv.tk,Emby
+
+# >  品云服务器
+DOMAIN,py.embyplus.club,Emby
