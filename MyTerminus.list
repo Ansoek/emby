@@ -37,6 +37,7 @@ DOMAIN,acg.fm,Emby
 
 # > jmsooo服务器
 DOMAIN,cf.jmsooo.com,Emby
+DOMAIN,ha.jmsooo.com,Emby
 
 # > 垃圾影音服务器
 DOMAIN,cf.emby.ml,Emby
