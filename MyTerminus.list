@@ -42,8 +42,9 @@ DOMAIN,ha.jmsooo.com,Emby
 
 # > 垃圾影音服务器
 DOMAIN,cf.emby.ml,Emby
+DOMAIN,cf.xmsl.org,Emby
 
-# > 垃圾影音服务器
+# > polo服务器
 DOMAIN,cu.poloemby.xyz,Emby
 
 # > CC服务器
