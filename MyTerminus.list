@@ -6,6 +6,9 @@ DOMAIN,pub4.emby.wtf,EmbyX
 DOMAIN,pub1cm1.emby.wtf,EmbyX
 DOMAIN,pub2cm1.emby.wtf,EmbyX
 DOMAIN,pub3cm1.emby.wtf,EmbyX
+DOMAIN,pub1cf.emby.wtf,Emby
+DOMAIN,pub2cf.emby.wtf,Emby
+DOMAIN,pub3cf.emby.wtf,Emby
 
 # > Misty服务器
 DOMAIN,aaa.ax,Emby
@@ -76,6 +79,7 @@ DOMAIN,cf.studyfun.live,Emby
 DOMAIN,nextfilm.nmg.llc,Emby
 
 # >  Peach服务器
+DOMAIN,embymv.tk,Emby
 DOMAIN,embymv.tk,Emby
 DOMAIN,peachmv.me,Emby
 #推荐
