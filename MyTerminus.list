@@ -9,6 +9,9 @@ DOMAIN,pub3cm1.emby.wtf,EmbyX
 DOMAIN,pub1cf.emby.wtf,Emby
 DOMAIN,pub2cf.emby.wtf,Emby
 DOMAIN,pub3cf.emby.wtf,Emby
+DOMAIN,pub1cf.term.wtf,Emby
+DOMAIN,pub2cf.term.wtf,Emby
+DOMAIN,pub3cf.term.wtf,Emby
 
 # > Misty服务器
 DOMAIN,aaa.ax,Emby
