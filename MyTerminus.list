@@ -9,9 +9,9 @@ DOMAIN,pub3cm1.emby.wtf,EmbyX
 DOMAIN,pub1cf.emby.wtf,Emby
 DOMAIN,pub2cf.emby.wtf,Emby
 DOMAIN,pub3cf.emby.wtf,Emby
-DOMAIN,pub1.term.wtf,Emby
-DOMAIN,pub2.term.wtf,Emby
-DOMAIN,pub3.term.wtf,Emby
+DOMAIN,pub1.term.wtf,EmbyX
+DOMAIN,pub2.term.wtf,EmbyX
+DOMAIN,pub3.term.wtf,EmbyX
 
 # > Misty服务器
 DOMAIN,aaa.ax,Emby
@@ -26,6 +26,7 @@ DOMAIN,sg.gcx920110.com,Emby
 
 # > porn服务器
 DOMAIN,pornemby.club,EmbyX
+DOMAIN,pornemby.com,EmbyX
 
 # > MisakaF服务器
 DOMAIN,emby.misakaf.org,Emby
@@ -82,8 +83,8 @@ DOMAIN,cf.studyfun.live,Emby
 DOMAIN,nextfilm.nmg.llc,Emby
 
 # >  Peach服务器
-DOMAIN,embymv.tk,Emby
-DOMAIN,embymv.tk,Emby
+DOMAIN,embymv.tk,EmbyX
+
 DOMAIN,peachmv.me,Emby
 #推荐
 DOMAIN,kr.embymv.tk,Emby
@@ -107,5 +108,13 @@ DOMAIN,free.emby.eu.org,Emby
 
 # >  TreeDiagram服务器
 DOMAIN,789.123456.al,Emby
+
+# >  PiliPili服务器
+DOMAIN,xn--ohq746dhyifsj.xn--pp5aa2sb.com,Emby
+DOMAIN,pilipili.club,Emby
+
+# >  nanflix服务器
+DOMAIN,nanflix.net,Emby
+
 
 
